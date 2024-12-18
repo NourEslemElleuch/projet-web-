@@ -1,0 +1,86 @@
+
+.competences-title {
+    text-align: center;
+    color: pink;
+    margin-top: 20px;
+    font-size: 1.8rem;
+    border-bottom: 2px solid pink;
+   
+    padding-bottom: 5px;
+}
+
+
+section {
+    margin: 30px auto;
+    padding: 20px;
+    width: 80%;
+    background: white;
+    border-radius: 10px;
+   
+}
+
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.skill h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: navy;
+}
+
+.progress-bar {
+    background-color: #ddd;
+    border-radius: 25px;
+    height: 25px;
+   
+}
+
+.progress {
+    background-color: lightskyblue;
+    height: 100%;
+    line-height: 25px;
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+    font-size:20px;
+    font-weight: bold;
+  
+}
+
+
+.soft-skills-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.soft-skills-list li {
+    background-color: lightcyan;
+    color: lightskyblue;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+
+.langues-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.langues-list li {
+    background-color: lightcyan;
+    color: lightskyblue;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+   
+}

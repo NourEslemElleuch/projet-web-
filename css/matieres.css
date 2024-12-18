@@ -1,0 +1,33 @@
+.matieres-table {
+    width: 50%;
+    margin-left: 500px;
+    border-collapse: collapse;
+    border-radius: 15px;
+    overflow: hidden; /* Nécessaire pour appliquer le border-radius */
+}
+
+.matieres-table thead {
+    background-color: palevioletred;
+    color: white;
+}
+
+.matieres-table thead th {
+    padding: 10px;
+    text-align: left;
+}
+
+.matieres-table tbody tr {
+    border-bottom: 1px solid pink;
+}
+
+.matieres-table tbody tr:nth-child(odd) {
+    background-color: lightblue;
+}
+
+.matieres-table tbody tr:nth-child(even) {
+    background-color: navy;
+}
+
+.matieres-table tbody td {
+    padding: 10px;
+}

@@ -1,0 +1,55 @@
+.contact-form-section {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
+
+.contact-form-section h2 {
+    text-align: center;
+    color: pink;
+}
+
+
+
+
+.contact-input, .contact-textarea {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+
+
+.contact-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-button {
+    background-color: pink;
+    color: white;
+   
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+   
+}
+.contact-button:hover {
+    background-color: #aaa;
+}
+
+
+
+.contact-button.reset {
+    background-color: #ccc;
+}
+
+.contact-button.reset:hover {
+    background-color: #aaa;
+}

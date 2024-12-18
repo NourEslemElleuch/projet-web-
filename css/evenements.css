@@ -1,0 +1,73 @@
+/* Section Événements */
+#evenements {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 200px;
+    border-radius: 8px;
+   }
+  #evenements h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #evenements h3 {
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  #evenements ul {
+  
+    margin-left: 20px;
+    padding: 0;
+  }
+  
+  #evenements li {
+    color: navy;
+    margin-bottom: 10px;
+    font-size: 16px;
+    
+  }
+  
+  #evenements li strong {
+    color:crimson;
+    font-weight: 500px;
+  }
+  
+  #evenements p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: navy;
+  }
+  .table-image {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .evenements-table img {
+    border-radius: 15px;
+   }
+  .vertical-image img {
+    width: 250px; 
+    height: 400px;
+  }
+  
+  .horizontal-image img {
+    width: 1100px; 
+    height: 250px;
+  }
+  .video-container {
+    margin-top: 20px;
+    margin-left: 450px;
+    width: 600%;
+    max-width: 600px;
+    height: 550px;
+    overflow: hidden;
+    border-radius: 15px;
+   }
+  .video-container video {
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+  }
+  

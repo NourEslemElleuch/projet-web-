@@ -1,0 +1,40 @@
+.about-section {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 12px;
+
+    font-family: 'Roboto', sans-serif;
+    color: navy;
+}
+
+
+.about-section h2 {
+    color: #0078d7;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+ 
+    margin-bottom: 20px;
+    border-bottom: 2px solid #0078d7;
+  
+    padding-bottom: 5px;
+}
+
+
+.about-section p {
+    font-size: 18px;
+
+    margin: 10px 0;
+    color: navy;
+    background-color: whitesmoke;
+   
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+
+}
+
+
+
